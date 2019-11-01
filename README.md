@@ -1,2 +1,4 @@
 # my_note
-my study notes
+
+# database
+ > 数据库学习笔记
